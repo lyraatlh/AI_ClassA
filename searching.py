@@ -1,4 +1,3 @@
-# buat program menggunakan metode searching
 # di berikan input
 # x = [5, 5, 10, 3, 2, 6, 7]
 # y1 = 4
